@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dilip-react-assignment/static/css/main.5e22eac1.chunk.css",
+    "main.js": "/dilip-react-assignment/static/js/main.2a126236.chunk.js",
+    "main.js.map": "/dilip-react-assignment/static/js/main.2a126236.chunk.js.map",
+    "runtime-main.js": "/dilip-react-assignment/static/js/runtime-main.375f5883.js",
+    "runtime-main.js.map": "/dilip-react-assignment/static/js/runtime-main.375f5883.js.map",
+    "static/js/2.78c900ab.chunk.js": "/dilip-react-assignment/static/js/2.78c900ab.chunk.js",
+    "static/js/2.78c900ab.chunk.js.map": "/dilip-react-assignment/static/js/2.78c900ab.chunk.js.map",
+    "static/js/3.4775e562.chunk.js": "/dilip-react-assignment/static/js/3.4775e562.chunk.js",
+    "static/js/3.4775e562.chunk.js.map": "/dilip-react-assignment/static/js/3.4775e562.chunk.js.map",
+    "index.html": "/dilip-react-assignment/index.html",
+    "static/css/main.5e22eac1.chunk.css.map": "/dilip-react-assignment/static/css/main.5e22eac1.chunk.css.map",
+    "static/js/2.78c900ab.chunk.js.LICENSE.txt": "/dilip-react-assignment/static/js/2.78c900ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.375f5883.js",
+    "static/js/2.78c900ab.chunk.js",
+    "static/css/main.5e22eac1.chunk.css",
+    "static/js/main.2a126236.chunk.js"
+  ]
+}
